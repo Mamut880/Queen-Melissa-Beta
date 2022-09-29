@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '19025001958'
+global.REACT_NUMBER = '213676958744'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,22 +34,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['19025001958'] //ur owner number
+global.vcardowner = ['213676958744'] //ur owner number
 global.ownername = "SenuBoy" //ur owner name
 global.ytname = "YT: SenuBoy" //ur yt chanel name
 global.socialm = "GitHub: SenuBoy" //ur github or insta name
 global.location = "SriLanka, Kaluthara, Panadura" //ur location
 
 //bot bomdy 
-global.owner = ['19025001958']
-global.ownertag = '19025001958' //ur tag number
+global.owner = ['213676958744']
+global.ownertag = '213676958744' //ur tag number
 global.botname = 'Queen-Melissa-Beta' //ur bot name
 global.linkz = "https://github.com/SenuBoy/Queen-Melissa-Beta" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/SenuBoy/Queen-Melissa-Beta" //ur website to be displayed
 global.botscript = 'https://github.com/SenuBoy/Queen-Melissa-Beta' //script link
 global.reactmoji = "📄" //ur menu react emoji
 global.themeemoji = "🪀" //ur theme emoji
-global.packname = "Queen-Melissa-Beta" //ur sticker watermark packname
+global.packname = "Berkay Rukbat" //ur sticker watermark packname
 global.author = "SenuBoy" //ur sticker watermark author
 
 //Bot theme media
